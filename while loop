@@ -1,0 +1,7 @@
+nMax=5
+n=1
+a=[]
+while n<nMax:
+    a.append(1/n)
+    n=n+1
+print(a)
